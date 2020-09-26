@@ -1,0 +1,13 @@
+{
+    "name": "cucumber",
+    "version": "1.0.0",
+    "description": "CucumberJS Tutorial for Selenium JavaScript Testing",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/@cucumber/cucumber/bin/cucumber-js"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "^7.0.0-rc.0"
+    },
+    "dependencies": {}
+}
